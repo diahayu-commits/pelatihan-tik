@@ -12,7 +12,6 @@
     <p>Siswa SMK tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
     <a href="https://www.instagram.com/rchniaa?exln=MW03NDE1bG9maWZlMg==">Kunjungi Instagram Saya</a>
     <button id="sapaButton">Sapa Saya</button>
-    <script src="script.js"></script>
     </div>
 </body>
 </html>
